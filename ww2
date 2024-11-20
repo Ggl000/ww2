@@ -1,0 +1,48 @@
+!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segunda Guerra Mundial</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Segunda Guerra Mundial</h1>
+        <nav>
+            <ul>
+                <li><a href="#overview">Visão Geral</a></li>
+                <li><a href="#events">Eventos Principais</a></li>
+                <li><a href="#impact">Impacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="overview">
+            <h2>Visão Geral</h2>
+            <p>A Segunda Guerra Mundial foi um conflito global que durou de 1939 a 1945, envolvendo a maioria das nações do mundo.</p>
+        </section>
+
+        <section id="events">
+            <h2>Eventos Principais</h2>
+            <ul>
+                <li>1939: Início da guerra com a invasão da Polônia pela Alemanha.</li>
+                <li>1941: Ataque a Pearl Harbor pelos japoneses.</li>
+                <li>1944: Dia D e a invasão da Normandia.</li>
+                <li>1945: Fim da guerra com a rendição do Japão.</li>
+            </ul>
+        </section>
+
+        <section id="impact">
+            <h2>Impacto</h2>
+            <p>A guerra causou mudanças políticas e sociais profundas, resultando na criação da ONU e na Guerra Fria.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
